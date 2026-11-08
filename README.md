@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Recep Aydın 👋
 
-<!--
-**Recep-Aydin/Recep-Aydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronics Engineering student at Recep Tayyip Erdoğan University (RTEÜ), Rize.
+Chair of the RTEÜ IEEE Student Branch.
 
-Here are some ideas to get you started:
+## What I work on
+- RF / SDR and electronic warfare
+- Embedded systems and robotics
+- Defense technology and UAV systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+Co-author of a peer-reviewed paper on resonant tunneling in semiconductor nanostructures
+(Advanced Physics Research, Wiley) — DOI: 10.1002/apxr.70152
+
+## Projects
+- [Portfolio](https://github.com/Recep-Aydin/portfolio) — bilingual (TR/EN) personal site
+- [Todo app](https://github.com/Recep-Aydin/todo-app) — gamified to-do app (HTML/CSS/JS + Supabase)
+
+## Connect
+[LinkedIn]
