@@ -17,4 +17,4 @@ Co-author of a peer-reviewed paper on resonant tunneling in semiconductor nanost
 - [Todo app](https://github.com/Recep-Aydin/todo-app) — gamified to-do app (HTML/CSS/JS + Supabase)
 
 ## Connect
-[LinkedIn]
+[LinkedIn] www.linkedin.com/in/recep-aydın000
